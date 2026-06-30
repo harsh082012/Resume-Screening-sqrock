@@ -5,7 +5,7 @@
 An NLP-powered web app that screens resumes and ranks candidates based on job description similarity using TF-IDF and Cosine Similarity.
 
 ## 🚀 Live Demo
-[Click here to open the app](https://your-app-link.streamlit.app)
+[Click here to open the app](https://resume-screening-sqrock-nyvnwpqgevfv6vlfke3o8r.streamlit.app)
 
 ## 📌 Features
 - Upload resume dataset CSV
